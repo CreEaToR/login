@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class login{
@@ -40,7 +41,7 @@ public class login{
 
 																	        System.out.println("Welcome "+ username);
 
-
+//result 1
 
 
 																		        }
@@ -49,7 +50,7 @@ public class login{
 
 
 																			System.out.println("Wrong Username or Password");
-
+//result2
 																						        }
 
 																							}
